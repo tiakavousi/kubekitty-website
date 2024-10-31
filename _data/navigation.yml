@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Getting Started"
-    url: /getting-started
-  - title: "Commands"
-    url: /commands
-  - title: "Configuration"
-    url: /configuration

@@ -1,5 +1,0 @@
-baseURL = 'https://kubekitty.com/'
-languageCode = 'en-us'
-title = 'KubeKitty'
-
-theme = 'ananke'
